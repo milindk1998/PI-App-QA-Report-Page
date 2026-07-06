@@ -1,0 +1,6 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","Practical Insights Application","0","Authentication","1","0","Okta Login - empty password shows form error on Verify click","0"
+"0","Practical Insights Application","0","Authentication","1","0","Okta Login - incorrect password shows error message","0"
+"0","Practical Insights Application","0","Authentication","2","0","Okta Login - sign in and reach Product Access page","0"
+"0","Practical Insights Application","0","Authentication","1","0","Okta Login - incorrect username shows error message","0"
+"0","Practical Insights Application","0","Authentication","1","0","Okta Login - empty username keeps Next button disabled","0"
