@@ -1,0 +1,2 @@
+Screenshot skipped for step "Enter Okta password" — page not in a renderable state
+Screenshot skipped for step "Validate authenticated landing page" — page not in a renderable state
