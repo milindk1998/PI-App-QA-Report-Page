@@ -1,0 +1,9 @@
+
+========== QUERY RESULTS ==========
+Status: SUCCEEDED
+Row count: 1
+Columns: RPT_PRACTICE_NAME, PQRS_NUM, MIPS_MEASURE_NAME, CALC_METHOD, MSRMNT_PRD, NUM, DEN, DENEXCLSN, DENEXCPTN, PERF_RT
+--- Data (all 1 rows) ---
+Row 1: PQRS_NUM=001, CALC_METHOD=PRAC, MIPS_MEASURE_NAME=Diabetes: Hemoglobin A1c (HbA1c) Poor Control (>9%) (Inverse Measure), DEN=1389, NUM=1370, PERF_RT=98.6%
+===================================
+
