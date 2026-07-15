@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","82313","Okta Login - incorrect username shows error message","Practical Insights","2026-07-15","passed","2026-07-15","Okta Login & Logout","Authentication","",""
+"","23741","Okta Login - empty username keeps Next button disabled","Practical Insights","2026-07-15","passed","2026-07-15","Okta Login & Logout","Authentication","",""
+"","89220","Okta Login - sign in and reach Product Access page","Practical Insights","2026-07-15","passed","2026-07-15","Okta Login & Logout","Authentication","",""
+"","63009","Okta Login - incorrect password shows error message","Practical Insights","2026-07-15","passed","2026-07-15","Okta Login & Logout","Authentication","",""
+"","26837","Okta Login - empty password shows form error on Verify click","Practical Insights","2026-07-15","passed","2026-07-15","Okta Login & Logout","Authentication","",""
+"","89030","Okta Login - sign in and reach Product Access page","Practical Insights","2026-07-15","passed","2026-07-15","Okta Login & Logout","Authentication","",""
