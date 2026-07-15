@@ -1,2 +1,0 @@
-Screenshot skipped for step "Open Okta sign-in page" — page not in a renderable state
-Screenshot skipped for step "Submit username with Next button" — page not in a renderable state

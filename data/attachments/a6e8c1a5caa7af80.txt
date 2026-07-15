@@ -1,1 +1,0 @@
-Screenshot skipped for step "Validate ACP Performance Dashboard URL" — page not in a renderable state
