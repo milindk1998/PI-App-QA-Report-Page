@@ -1,4 +1,0 @@
-QCDR Data Management Dashboard URL validated successfully: https://mdanalyticsuat.mckesson.com/dsbm
-✅ QCDR Data Management page loaded successfully.
-Description Text: Monitor and Manage submissions.
-✅ Description text is visible under Status link.
