@@ -1,0 +1,4 @@
+QCDR Data Management Dashboard URL validated successfully: https://mdanalyticsuat.mckesson.com/dsbm
+✅ QCDR Data Management page loaded successfully.
+Description Text: Allows users to make selections for the MIPS submission.
+✅ Description text is visible under Submission link.
