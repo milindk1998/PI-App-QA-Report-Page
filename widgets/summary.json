@@ -1,1 +1,1 @@
-{"reportName":"Practical Insights - Allure Report","testRuns":[],"statistic":{"failed":0,"broken":0,"skipped":0,"passed":10,"unknown":0,"total":10},"time":{"start":1786102814618,"stop":1786103328512,"duration":513894,"minDuration":75225,"maxDuration":132023,"sumDuration":994592}}
+{"reportName":"Practical Insights - Allure Report","testRuns":[],"statistic":{"failed":0,"broken":0,"skipped":0,"passed":6,"unknown":0,"total":6},"time":{"start":1786108493265,"stop":1786109184598,"duration":691333,"minDuration":16969,"maxDuration":575713,"sumDuration":878059}}
