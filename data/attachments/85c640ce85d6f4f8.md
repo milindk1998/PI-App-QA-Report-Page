@@ -1,0 +1,32 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - img [ref=e8]
+      - paragraph [ref=e9]: Practice Insights
+    - generic [ref=e10]:
+      - button "Home" [ref=e12] [cursor=pointer]
+      - button "Products" [ref=e14] [cursor=pointer]:
+        - text: Products
+        - img [ref=e15]
+    - generic [ref=e16]:
+      - paragraph [ref=e17]: Welcome Test | Oncology Hematology Care
+      - button [ref=e19] [cursor=pointer]:
+        - img [ref=e20]
+  - generic [ref=e24]:
+    - button "Data Submission" [ref=e27] [cursor=pointer]
+    - main [ref=e29]:
+      - heading "QCDR Data Management" [level=1] [ref=e30]
+      - region "Available applications" [ref=e31]:
+        - link "Subgroup Manager Create and Maintain Subgroups for the MIPS submission." [ref=e32] [cursor=pointer]:
+          - generic [ref=e33]: Subgroup Manager
+          - generic [ref=e34]: Create and Maintain Subgroups for the MIPS submission.
+        - link "Registration Registration for QCDR Submissions." [ref=e35] [cursor=pointer]:
+          - generic [ref=e36]: Registration
+          - generic [ref=e37]: Registration for QCDR Submissions.
+        - link "Status Monitor and Manage submissions." [ref=e38] [cursor=pointer]:
+          - generic [ref=e39]: Status
+          - generic [ref=e40]: Monitor and Manage submissions.
+```
