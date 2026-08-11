@@ -1,4 +1,0 @@
-QCDR Data Management Dashboard URL validated successfully: https://mdanalyticsuat.mckesson.com/dsbm
-✅ QCDR Data Management page loaded successfully.
-✅ Data Submission dropdown clicked successfully.
-Dropdown Options: [ 'Registration', 'Status', 'Subgroup Manager' ]
