@@ -1,1 +1,0 @@
-Screenshot skipped for step "Enter Okta username attempt 2" — page not in a renderable state
