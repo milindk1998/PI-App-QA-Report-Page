@@ -1,4 +1,0 @@
-QCDR Data Management Dashboard URL validated successfully: https://mdanalyticsuat.mckesson.com/dsbm
-✅ QCDR Data Management page loaded successfully.
-✅ Subgroup Manager link clicked successfully.
-✅ Value "311106418" selected from Select Subgroup dropdown successfully.
